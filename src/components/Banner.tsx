@@ -1,5 +1,5 @@
 import { Carousel } from 'react-bootstrap'
-// import './banner.css'
+import './banner.css'
 
 export default function Banner() {
   return (
